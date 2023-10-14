@@ -1,0 +1,10 @@
+version: "3.9"
+services:
+  nclebe:
+    image: tejasog/nclebe:latest
+    ports:
+      - "3000:3000"
+  nclefe:
+    image: tejasog/nclefe:latest
+    ports:
+      - "4200:4200"
