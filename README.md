@@ -45,7 +45,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd ncle-be
+  cd kanban-engine-be
 ```
 
 Install dependencies
